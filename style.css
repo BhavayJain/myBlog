@@ -59,3 +59,6 @@ body {
 }
 
 .font{font-family:'Potta One'}
+a{text-decoration: none;
+}
+.Article:hover{color:green}
